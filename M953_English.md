@@ -84,9 +84,9 @@ Drückt den höchsten Grad eines Adjektivs aus, wenn man mehr als zwei Dinge ver
 - Bildung: will + Grundform des Verbs.
 - Beispiel: "I will visit you tomorrow.", "She will call later."
 
-## Going to-Future
+## BE Going to-Future
 - Verwendung: Für geplante Handlungen in der Zukunft oder Vorhersagen basierend auf Anzeichen.
-- Beispiel: "I am going to meet Jack tomorrow at 2pm."
+- Beispiel: "I **am** going to meet Jack tomorrow at 2pm."
 
 ## Present Continous (am/is/are + Verb + ing)
 - Verwendung: Für feststehende Pläne oder Vereinbarung in naher Zukunft.
